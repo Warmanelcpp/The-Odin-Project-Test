@@ -1,2 +1,2 @@
-# The-Odin-Project-Test
+# odin-recipes
 This site contains food recipes

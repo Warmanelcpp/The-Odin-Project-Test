@@ -1,0 +1,47 @@
+* {
+    background-color: black;
+    color:white;
+}
+
+
+
+body {
+    margin: 0;
+}
+
+.header {
+    text-align: center;
+}
+
+.index {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap:50px;
+}
+
+
+img {
+    width: 1400px;
+}
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 20px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
